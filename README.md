@@ -235,6 +235,7 @@ The following ports were blocked at the firewall level:
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/a2ace8a8-1e34-423a-b18e-341823c5021b" />
 
 THM{DETECTION_MASTER}
+
 ---
 
 ## Conclusion
