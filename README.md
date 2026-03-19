@@ -82,7 +82,7 @@ Traffic analysis is the process of monitoring and analyzing network communicatio
 
 ## Level 1 – Malicious IP Identification and Filtering
 
-![Level 1](images/level1.png)
+<img width="752" height="775" alt="image" src="https://github.com/user-attachments/assets/dd37905b-3352-43bf-b690-3cdae20b82bc" />
 
 ### Context
 
@@ -152,11 +152,14 @@ This represents:
 
 THM{PACKET_MASTER}
 
+<img width="1897" height="776" alt="image" src="https://github.com/user-attachments/assets/15302bb3-8ae7-4aa2-b212-e3fcee945437" />
+
 ---
 
 ## Level 2 – Malicious Port Identification and Filtering
 
-![Level 2](images/level2.png)
+<img width="1874" height="615" alt="image" src="https://github.com/user-attachments/assets/d6b53912-c8fa-4e2b-a45e-b180f369131f" />
+
 
 ### Context
 
@@ -229,12 +232,9 @@ The following ports were blocked at the firewall level:
 7777  
 2222  
 
-This results in:
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/a2ace8a8-1e34-423a-b18e-341823c5021b" />
 
-- Disruption of reverse shells and C2 channels  
-- Prevention of further exploitation  
-- Containment of the attack vector  
-
+THM{DETECTION_MASTER}
 ---
 
 ## Conclusion
