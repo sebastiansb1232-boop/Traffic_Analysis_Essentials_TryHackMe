@@ -152,13 +152,15 @@ This represents:
 
 THM{PACKET_MASTER}
 
-<img width="1897" height="776" alt="image" src="https://github.com/user-attachments/assets/15302bb3-8ae7-4aa2-b212-e3fcee945437" />
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/0874cee3-6da4-49c2-9238-d4267b71407e" />
+
 
 ---
 
 ## Level 2 – Malicious Port Identification and Filtering
 
-<img width="1874" height="615" alt="image" src="https://github.com/user-attachments/assets/d6b53912-c8fa-4e2b-a45e-b180f369131f" />
+<img width="1917" height="838" alt="image" src="https://github.com/user-attachments/assets/38b57996-7d16-4fd3-9659-4784b05fff2f" />
+
 
 
 ### Context
@@ -232,7 +234,7 @@ The following ports were blocked at the firewall level:
 7777  
 2222  
 
-<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/a2ace8a8-1e34-423a-b18e-341823c5021b" />
+### Result
 
 THM{DETECTION_MASTER}
 
